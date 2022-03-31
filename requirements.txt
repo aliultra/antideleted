@@ -1,2 +1,10 @@
 telethon
 jsonpickle
+regex
+aiohttp
+Pillow
+CurrencyConverter
+hachoir
+requests
+youtube-dl
+pillow
