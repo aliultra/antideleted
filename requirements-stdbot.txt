@@ -1,5 +1,0 @@
-CurrencyConverter
-hachoir
-requests
-youtube-dl
-pillow
